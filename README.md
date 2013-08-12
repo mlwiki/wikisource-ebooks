@@ -11,7 +11,3 @@ https://code.google.com/p/ml-wikisource-ebooks/downloads/list
 CC-BY-SA 3.0 
 
 ![CC-BY-SA](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
-<<<<<<< HEAD
-
-=======
->>>>>>> f334110a5f0de4ab03f30dcab581939d050cd39c
