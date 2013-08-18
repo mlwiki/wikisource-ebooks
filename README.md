@@ -7,7 +7,9 @@
 https://code.google.com/p/ml-wikisource-ebooks/downloads/list
 
 
+
 ## അനുമതി
 CC-BY-SA 3.0 
 
-![CC-BY-SA](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
+![CC-BY-SA-3.0](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
+Creative Commons Atrribution-Share Alike 3.0 
